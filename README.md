@@ -1,7 +1,7 @@
 # Traffic-Light-System
 A Traffic Light system using FreeRTOS on STM32F4 discovery board (ECE 455 at UVic)
 
-## Project Design
+## Project Design and Specification
 
 ![image](stop.png)
 Red Traffic Light
