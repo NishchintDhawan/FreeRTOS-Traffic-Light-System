@@ -1,0 +1,14 @@
+core_cm4.h:1037:22:NVIC_SetPriorityGrouping	24	static
+main.c:176:6:inithardware	56	static
+main.c:239:5:main	24	static
+main.c:297:6:sendTrafficToBoard	32	static
+main.c:320:6:pushTraffic	24	static
+main.c:331:6:TrafficGeneratorTask	128	static
+main.c:447:6:vGreenLightTimerCallback	32	static
+main.c:466:6:vYellowLightTimerCallback	32	static
+main.c:476:6:vRedLightTimerCallback	32	static
+main.c:495:6:TrafficLightTask	32	static
+main.c:555:6:TrafficFlowTask	16	static
+main.c:582:6:vApplicationMallocFailedHook	4	static
+main.c:596:6:vApplicationStackOverflowHook	16	static
+main.c:610:6:vApplicationIdleHook	16	static
